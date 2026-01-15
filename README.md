@@ -4,13 +4,13 @@
 
 Overview of the physcial build of my NAS as well as choosing and installing the Operating System
 
---
+---
 
 ## Date of start and completion
 
 11/2025 - 12/2025
 
---
+---
 
 ## Physical Build
 
